@@ -1,4 +1,4 @@
 used to create files--
-.txt
-.doc
+.txt <br/>
+.doc <br/>
 .rtf
